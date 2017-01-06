@@ -7,7 +7,7 @@ class tuessTheClassName {
 }
 
 /**
- * You can also have interfaces in your class , I didnt know that before 
+ * You can also have interfaces in your class , I didnt know that before
  */
 /
 interface printable{
